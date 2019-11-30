@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	scron "github.com/dsaouda/scron/util"
-	"github.com/robfig/cron"
 	"time"
+
+	scron "github.com/imiric/scron/util"
+	"github.com/robfig/cron"
 )
 
 func main() {
